@@ -1,4 +1,4 @@
-# ContactManagementApp
+# Contact Management System 
 
 # Project Description
 The Contact Management System allows users to perform CRUD operations on contact data. Users can add, view, update, and delete contacts via a user-friendly React-based frontend integrated with Material-UI components. The backend is powered by Node.js and Express, with MongoDB serving as the database for storing contact information.
